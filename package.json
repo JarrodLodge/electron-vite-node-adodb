@@ -48,7 +48,7 @@
     "cron": "^2.2.0",
     "electron-store": "^8.1.0",
     "node-adodb": "^5.0.3",
-    "esbuild": "^0.15.13",
+    "esbuild": "^0.17.19",
     "firebase": "^9.14.0",
     "luxon": "^3.2.1",
     "path-browserify": "^1.0.1",
